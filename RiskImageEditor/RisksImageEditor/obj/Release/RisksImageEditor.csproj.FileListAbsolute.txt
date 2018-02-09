@@ -1,0 +1,28 @@
+C:\Users\Шумаков Иван\Documents\Visual Studio 2013\Projects\RisksImageEditor\RisksImageEditor\bin\Release\RisksImageEditor.exe.config
+C:\Users\Шумаков Иван\Documents\Visual Studio 2013\Projects\RisksImageEditor\RisksImageEditor\bin\Release\RisksImageEditor.exe.manifest
+C:\Users\Шумаков Иван\Documents\Visual Studio 2013\Projects\RisksImageEditor\RisksImageEditor\bin\Release\RisksImageEditor.application
+C:\Users\Шумаков Иван\Documents\Visual Studio 2013\Projects\RisksImageEditor\RisksImageEditor\bin\Release\RisksImageEditor.exe
+C:\Users\Шумаков Иван\Documents\Visual Studio 2013\Projects\RisksImageEditor\RisksImageEditor\bin\Release\RisksImageEditor.pdb
+C:\Users\Шумаков Иван\Documents\Visual Studio 2013\Projects\RisksImageEditor\RisksImageEditor\obj\Release\RisksImageEditor.Form1.resources
+C:\Users\Шумаков Иван\Documents\Visual Studio 2013\Projects\RisksImageEditor\RisksImageEditor\obj\Release\RisksImageEditor.Properties.Resources.resources
+C:\Users\Шумаков Иван\Documents\Visual Studio 2013\Projects\RisksImageEditor\RisksImageEditor\obj\Release\RisksImageEditor.csproj.GenerateResource.Cache
+C:\Users\Шумаков Иван\Documents\Visual Studio 2013\Projects\RisksImageEditor\RisksImageEditor\obj\Release\RisksImageEditor.TrustInfo.xml
+C:\Users\Шумаков Иван\Documents\Visual Studio 2013\Projects\RisksImageEditor\RisksImageEditor\obj\Release\RisksImageEditor.exe.manifest
+C:\Users\Шумаков Иван\Documents\Visual Studio 2013\Projects\RisksImageEditor\RisksImageEditor\obj\Release\RisksImageEditor.application
+C:\Users\Шумаков Иван\Documents\Visual Studio 2013\Projects\RisksImageEditor\RisksImageEditor\obj\Release\RisksImageEditor.exe
+C:\Users\Шумаков Иван\Documents\Visual Studio 2013\Projects\RisksImageEditor\RisksImageEditor\obj\Release\RisksImageEditor.pdb
+C:\Users\Шумаков Иван\Documents\Visual Studio 2013\Projects\RisksImageEditor\RisksImageEditor\obj\Release\RisksImageEditor.csprojResolveAssemblyReference.cache
+C:\Users\Шумаков Иван\Desktop\RiskBackup\RisksImageEditor\RisksImageEditor\bin\Release\RisksImageEditor.exe.config
+C:\Users\Шумаков Иван\Desktop\RiskBackup\RisksImageEditor\RisksImageEditor\obj\Release\RisksImageEditor.exe
+C:\Users\Шумаков Иван\Desktop\RiskBackup\RisksImageEditor\RisksImageEditor\obj\Release\RisksImageEditor.pdb
+C:\Users\Шумаков Иван\Desktop\RiskBackup\RisksImageEditor\RisksImageEditor\bin\Release\RisksImageEditor.exe.manifest
+C:\Users\Шумаков Иван\Desktop\RiskBackup\RisksImageEditor\RisksImageEditor\bin\Release\RisksImageEditor.application
+C:\Users\Шумаков Иван\Desktop\RiskBackup\RisksImageEditor\RisksImageEditor\bin\Release\RisksImageEditor.exe
+C:\Users\Шумаков Иван\Desktop\RiskBackup\RisksImageEditor\RisksImageEditor\bin\Release\RisksImageEditor.pdb
+C:\Users\Шумаков Иван\Desktop\RiskBackup\RisksImageEditor\RisksImageEditor\obj\Release\RisksImageEditor.csprojResolveAssemblyReference.cache
+C:\Users\Шумаков Иван\Desktop\RiskBackup\RisksImageEditor\RisksImageEditor\obj\Release\RisksImageEditor.Form1.resources
+C:\Users\Шумаков Иван\Desktop\RiskBackup\RisksImageEditor\RisksImageEditor\obj\Release\RisksImageEditor.Properties.Resources.resources
+C:\Users\Шумаков Иван\Desktop\RiskBackup\RisksImageEditor\RisksImageEditor\obj\Release\RisksImageEditor.csproj.GenerateResource.Cache
+C:\Users\Шумаков Иван\Desktop\RiskBackup\RisksImageEditor\RisksImageEditor\obj\Release\RisksImageEditor.TrustInfo.xml
+C:\Users\Шумаков Иван\Desktop\RiskBackup\RisksImageEditor\RisksImageEditor\obj\Release\RisksImageEditor.exe.manifest
+C:\Users\Шумаков Иван\Desktop\RiskBackup\RisksImageEditor\RisksImageEditor\obj\Release\RisksImageEditor.application

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>C:\Users\Шумаков Иван\Desktop\RiskImageEditor\|CUsers\Шумаков Иван\Desktop\RiskImageEditor\|\localhost\Users\Шумаков Иван\Desktop\RiskImageEditor\|\\localhost\Users\Шумаков Иван\Desktop\RiskImageEditor\|publish\</PublishUrlHistory>
+    <InstallUrlHistory>\\localhost\Users\Шумаков Иван\Desktop\RiskImageEditor\</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+</Project>
